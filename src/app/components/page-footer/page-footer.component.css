@@ -1,0 +1,9 @@
+.rodape{
+    display: flex;
+    justify-content: center;
+    margin-top: 1.25rem;
+    border-top: 1px solid #ccc;
+}
+.rodape > p{
+    padding: 1.25rem;
+}
